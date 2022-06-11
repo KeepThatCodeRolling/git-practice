@@ -11,7 +11,7 @@
 
 ```
     git checkout -b bracnName
-    git commit "Name"
+    git commit "first / last- Name"
 ```
 
 ```
